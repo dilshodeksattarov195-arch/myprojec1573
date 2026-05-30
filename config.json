@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperealculate",
+        "uuid": 2065349,
+        "checksum": "v3za2p"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
